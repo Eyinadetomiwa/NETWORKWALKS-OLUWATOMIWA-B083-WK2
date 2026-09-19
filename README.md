@@ -35,7 +35,7 @@ Queried domain registration details to identify registrar information and author
 * **Registrar:** GoDaddy.com, LLC
 * **Name Servers:** `NS6135.HOSTGATOR.COM`, `NS6136.HOSTGATOR.COM`
 
-![WHOIS Output](screenshots/01-whois.png)
+![WHOIS Output](screenshots/01_whois.png)
 
 ---
 
