@@ -120,11 +120,22 @@ Generated and exported a radial network topology showing the relationship of loc
 
 ---
 
+---
+
+## 📑 Project Deliverables & Reports
+All official signed letters, technical reports, and research tables for Week 2 are available in the [`documents/`](documents/) directory:
+
+* 📄 [**Letter of Authorization (NW-LOA-B082-017)**](documents/W2-PM-Permission-Letter.pdf) — Signed client testing permission and scope boundaries.
+* 📄 [**Final Penetration Testing Report**](documents/W2-PM-FINAL-Report.pdf) — Complete technical findings, executive summary, risk analysis, and defensive recommendations.
+* 📄 [**GHDB & OSINT Dorking Tables (W2-PM2)**](documents/W2-PM2-GHDB-Tables.pdf) — Documented Google dorks, exposed interface links, and open directory findings.
+
+---
+
 ## 📁 Repository Structure
 ```text
 ├── documents/
-│   ├── W2-PM-FINAL-Report.pdf
 │   ├── W2-PM-Permission-Letter.pdf
+│   ├── W2-PM-FINAL-Report.pdf
 │   └── W2-PM2-GHDB-Tables.pdf
 ├── screenshots/
 │   ├── 01-whois.png
